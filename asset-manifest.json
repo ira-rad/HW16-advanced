@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/HW16-advanced/static/css/main.244107c2.chunk.css",
+    "main.js": "/HW16-advanced/static/js/main.5381fe03.chunk.js",
+    "main.js.map": "/HW16-advanced/static/js/main.5381fe03.chunk.js.map",
+    "runtime-main.js": "/HW16-advanced/static/js/runtime-main.adeb33a6.js",
+    "runtime-main.js.map": "/HW16-advanced/static/js/runtime-main.adeb33a6.js.map",
+    "static/js/2.a8727e54.chunk.js": "/HW16-advanced/static/js/2.a8727e54.chunk.js",
+    "static/js/2.a8727e54.chunk.js.map": "/HW16-advanced/static/js/2.a8727e54.chunk.js.map",
+    "index.html": "/HW16-advanced/index.html",
+    "precache-manifest.45ab222dfc31ec1ecf8e8287bfe07269.js": "/HW16-advanced/precache-manifest.45ab222dfc31ec1ecf8e8287bfe07269.js",
+    "service-worker.js": "/HW16-advanced/service-worker.js",
+    "static/css/main.244107c2.chunk.css.map": "/HW16-advanced/static/css/main.244107c2.chunk.css.map",
+    "static/js/2.a8727e54.chunk.js.LICENSE.txt": "/HW16-advanced/static/js/2.a8727e54.chunk.js.LICENSE.txt",
+    "static/media/girl.svg": "/HW16-advanced/static/media/girl.45e7f501.svg",
+    "static/media/man.svg": "/HW16-advanced/static/media/man.a01f134c.svg",
+    "static/media/question.svg": "/HW16-advanced/static/media/question.0a607ec2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.adeb33a6.js",
+    "static/js/2.a8727e54.chunk.js",
+    "static/css/main.244107c2.chunk.css",
+    "static/js/main.5381fe03.chunk.js"
+  ]
+}
